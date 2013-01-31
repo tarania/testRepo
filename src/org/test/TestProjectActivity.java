@@ -12,5 +12,6 @@ public class TestProjectActivity extends Activity {
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main);
+		System.out.println("branch");
     }
 }
