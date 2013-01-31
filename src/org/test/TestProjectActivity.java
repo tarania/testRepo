@@ -3,6 +3,9 @@ package org.test;
 import android.app.Activity;
 import android.os.Bundle;
 
+/**
+*	@author - author
+*/
 public class TestProjectActivity extends Activity {
     /** Called when the activity is first created. */
     @Override
